@@ -4,3 +4,4 @@ The engineer asked us to do the task of converting audio to text and I did it wi
 ESP8266_Web_Server_Arduino_IDE_updated.ino
 Ardiano's task
 run algorithm ESP32
+electronics tasks
